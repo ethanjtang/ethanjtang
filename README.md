@@ -1,8 +1,10 @@
 ```
 other stuff I do:
-https://www.chess.com/member/ejtang
-https://lichess.org/@/ejtang
-https://taketaketake.com/users/EJTang
+
+<Chess♘♜>
+- https://www.chess.com/member/ejtang
+- https://lichess.org/@/ejtang
+- https://taketaketake.com/users/EJTang
 ```
 
 <!--
